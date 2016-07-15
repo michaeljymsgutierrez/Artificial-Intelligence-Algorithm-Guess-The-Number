@@ -1,0 +1,56 @@
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\ApplicationIcon.png
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Background.png
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\AppManifest.xaml
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial_Intelligence.xap
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\App.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\MainPage.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.g.resources
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\XapCacheFile.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\ApplicationIcon.png
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Background.png
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\AppManifest.xaml
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial_Intelligence.xap
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\App.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\MainPage.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.g.resources
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\XapCacheFile.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\ApplicationIcon.png
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Background.png
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\AppManifest.xaml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial_Intelligence.xap
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\App.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\MainPage.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.g.resources
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\XapCacheFile.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\ApplicationIcon.png
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Background.png
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\AppManifest.xaml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\Bin\Debug\Artificial_Intelligence.xap
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\App.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\MainPage.g.i.vb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.g.resources
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.dll
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\MJgutierrez\Desktop\AI\AI\AI\AI\Artificial Intelligence\Artificial Intelligence\obj\Debug\XapCacheFile.xml
